@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/src/test/java/seleniumtest/appleinsider/AppleTest.java" charset="windows-1251" />
-    <file url="file://$PROJECT_DIR$/src/test/java/seleniumtest/appleinsider/AppleTest.java" charset="windows-1251" />
-    <file url="file://$PROJECT_DIR$/src/test/java/seleniumtest/appleinsider/AppleTest.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/core/BaseSelenideTest.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/helpDesk/HelpDeskTest.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/helpDesk/MainPage.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/helpers/StringModifier.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/helpers/TestValues.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/seleniumtest/appleinsider/AppleTest.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
