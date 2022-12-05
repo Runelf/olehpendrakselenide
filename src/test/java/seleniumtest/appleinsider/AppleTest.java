@@ -16,8 +16,6 @@ public class AppleTest extends BaseTest {
                 .search(SEARCH_STRING)
                 .getHrefFromFirstArticle()
                 .contains(EXPECTED_WORD));
-
-
         int i = 0;
 
 

@@ -7,12 +7,12 @@ import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 
 /**
- * Базовый класс для инициализации селенида
+ * Р‘Р°Р·РѕРІС‹Р№ РєР»Р°СЃСЃ РґР»СЏ РёРЅРёС†РёР°Р»РёР·Р°С†РёРё СЃРµР»РµРЅРёРґР°
  */
 abstract public class BaseSelenideTest {
 
     /**
-     * Инициализация selenide с настройками
+     * РРЅРёС†РёР°Р»РёР·Р°С†РёСЏ selenide СЃ РЅР°СЃС‚СЂРѕР№РєР°РјРё
      */
     public void setUp(){
         WebDriverManager.chromedriver().setup();
@@ -23,7 +23,7 @@ abstract public class BaseSelenideTest {
     }
 
     /**
-     * Выполнение метода перед каждым запуском тестов
+     * Р’С‹РїРѕР»РЅРµРЅРёРµ РјРµС‚РѕРґР° РїРµСЂРµРґ РєР°Р¶РґС‹Рј Р·Р°РїСѓСЃРєРѕРј С‚РµСЃС‚РѕРІ
      */
     @BeforeEach
     public void init(){
@@ -31,7 +31,7 @@ abstract public class BaseSelenideTest {
     }
 
     /**
-     * Выполнение метода после каждого закрытия тестов
+     * Р’С‹РїРѕР»РЅРµРЅРёРµ РјРµС‚РѕРґР° РїРѕСЃР»Рµ РєР°Р¶РґРѕРіРѕ Р·Р°РєСЂС‹С‚РёСЏ С‚РµСЃС‚РѕРІ
      */
     @AfterEach
     public void tearDown(){

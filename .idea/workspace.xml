@@ -4,24 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e09c487e-aa62-4b6f-aa0d-6f05836a3114" name="Changes" comment="SelenideTest.NBA - 002 add tests">
-      <change afterPath="$PROJECT_DIR$/src/test/java/core/BaseSelenideTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/core/BaseSeleniumPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/core/BaseSeleniumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/helpDesk/HelpDeskTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/helpDesk/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/helpDesk/MainPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/helpDesk/TicketPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/helpDesk/TicketsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/helpers/StringModifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/helpers/TestValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/readProperties/ConfigProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/readProperties/PropertiesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/application.conf" afterDir="false" />
+    <list default="true" id="e09c487e-aa62-4b6f-aa0d-6f05836a3114" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/javarushTest/JRTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/javarushTest/MainJRPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/javarushTest/UserJRPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/javarushTest/UsersJRPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/core/BaseSelenideTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/core/BaseSelenideTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/core/BaseSeleniumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/core/BaseSeleniumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/helpers/TestValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/helpers/TestValues.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/seleniumtest/appleinsider/AppleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/seleniumtest/appleinsider/AppleTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,55 +75,26 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
 }</component>
-  <component name="RunManager" selected="Gradle.HelpDeskTest.checkTicket">
-    <configuration name="AppleTest.checkHref (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;SeleniumTest.AppleInsider.AppleTest.checkHref&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
+  <component name="RunManager" selected="Gradle.JRTest.checkUser">
+    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Example" />
+      <module name="olehpendrakselenide.test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="AppleTest.checkHref (2)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;seleniumtest.appleinsider.AppleTest.checkHref&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="olehpendrakselenide.test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="HelpDeskTest.checkTicket" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -145,6 +110,29 @@
             <option value=":test" />
             <option value="--tests" />
             <option value="&quot;helpDesk.HelpDeskTest.checkTicket&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="JRTest.checkUser" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;javarushTest.JRTest.checkUser&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -177,36 +165,13 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="WikiTest.openAllHrefs" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;SeleniumTest.Wiki.WikiTest.openAllHrefs&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.JRTest.checkUser" />
         <item itemvalue="Gradle.HelpDeskTest.checkTicket" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.Example" />
         <item itemvalue="Gradle.WikiTest.openAllHrefs (1)" />
-        <item itemvalue="Gradle.AppleTest.checkHref (2)" />
-        <item itemvalue="Gradle.AppleTest.checkHref (1)" />
-        <item itemvalue="Gradle.WikiTest.openAllHrefs" />
       </list>
     </recent_temporary>
   </component>
@@ -226,21 +191,24 @@
       <option name="project" value="LOCAL" />
       <updated>1666900270669</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="SelenideTest.NBA - 002 add tests">
+      <created>1667079863437</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667079863437</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="SelenideTest.NBA - 001 add tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="SelenideTest.NBA - 001 add tests" />
+    <MESSAGE value="SelenideTest.NBA - 002 add tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="SelenideTest.NBA - 002 add tests" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/seleniumtest/appleinsider/AppleTest.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/seleniumtest/wiki/WikiTest.java</url>
           <line>26</line>

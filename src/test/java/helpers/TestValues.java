@@ -1,7 +1,7 @@
 package helpers;
 
 public class TestValues {
-    public static String TEST_BODY = "Сообщение в тех подержку с помощью селениума";
+    public static String TEST_BODY = "РЎРѕРѕР±С‰РµРЅРёРµ РІ С‚РµС… РїРѕРґРµСЂР¶РєСѓ СЃ РїРѕРјРѕС‰СЊСЋ СЃРµР»РµРЅРёСѓРјР°";
     public static String TEST_TITLE = "Oleh Youtuber";
     public static String TEST_EMAIL = "testYou@fake.ru";
 }
